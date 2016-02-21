@@ -11,5 +11,5 @@
 // Script codé par loucasse, tous droits réservés //
 
 $(document).ready(function(){
-    $.getScript('https://cdn.rawgit.com/LoucasseRG/politesse/master/script.js');
+    $.getScript('https://cdn.rawgit.com/LoucasseRG/barregtp/master/script.js');
 });
